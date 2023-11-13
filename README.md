@@ -9,5 +9,5 @@
                                                Tabela de Pilotos
 ![image](https://github.com/klysmamsilva/F1-2022/assets/87070813/7d697df2-bd4c-4e51-8960-98090fb6fe15)
 
-                                                Tabela de Equipes
+                                               Tabela de Equipes
 ![image](https://github.com/klysmamsilva/F1-2022/assets/87070813/662ab066-9d3b-4e36-acbc-1e36c3905a25)
